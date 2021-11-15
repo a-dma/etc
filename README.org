@@ -1,0 +1,3 @@
+* ./etc
+Random files and scripts that could be useful to have available
+somewhere easily accessible.
