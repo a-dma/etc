@@ -18,7 +18,7 @@ then
 fi
 
 # Install software
-nix-env -iA nixos.gnupg nixos.pinentry nixos.git nixos.just
+nix-env -iA nixos.gnupg nixos.pinentry nixos.git nixos.just nixos.nixFlakes
 
 # Populate configuration directory
 gpg -k
